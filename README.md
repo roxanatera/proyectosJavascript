@@ -5,7 +5,7 @@ This repository contains a collection of JavaScript projects, each designed to d
 1. Number Guessers
 Description: Number Guessers is a game where users try to guess a randomly generated number within a specified range. The game provides feedback on whether the guess is too high or too low until the user guesses the correct number.
 
-Purpose:
+# Purpose:
 
 Demonstrates basic game logic and random number generation.
 Provides practice with conditionals and loops.
@@ -17,7 +17,7 @@ Improves problem-solving skills in a fun and interactive way.
 2. Meal Maker.js
 Description: Meal Maker.js is a tool that allows users to create and manage meal plans. It can generate meal suggestions based on predefined recipes and ingredients.
 
-Purpose:
+# Purpose:
 
 Simplifies meal planning by offering recipe suggestions.
 Allows users to manage and organize their meal choices.
@@ -29,7 +29,7 @@ Helps users make informed decisions about their meals.
 3. Mensaje de Ballena.js
 Description: Mensaje de Ballena.js is a fun project that converts user input into a "whale language" format, where text is transformed into a playful and whimsical language inspired by whale sounds.
 
-Purpose:
+# Purpose:
 
 Demonstrates text manipulation and conversion.
 Provides a creative and entertaining way to work with strings.
@@ -40,7 +40,7 @@ Enhances creativity and engagement with programming concepts.
 4. Team Stats.js
 Description: Team Stats.js is a utility that allows users to input and analyze statistics for sports teams. It can calculate various performance metrics and display team data in a structured format.
 
-Purpose:
+# Purpose:
 
 Facilitates the analysis of sports team performance.
 Provides functionality to input, calculate, and visualize team statistics.
