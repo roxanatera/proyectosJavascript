@@ -109,6 +109,7 @@ const getUserChoice = (userInput) => {
   }
 };
 
+
 # Training Days
 
 ## Description
