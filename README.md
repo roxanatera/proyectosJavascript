@@ -114,7 +114,7 @@ The purpose of this project is to demonstrate the use of functions, conditionals
    };
 
 
-### Rock, Paper, or Scissors Game
+### 6. Rock, Paper, or Scissors Game.js
 
 **Description**:
 
@@ -131,7 +131,7 @@ This project serves both educational and practical purposes:
 2. **Game logic demonstration**: Several functions are implemented to simulate the game, including user input, random computer choice, and winner determination.
 3. **GitHub familiarization**: This repository acts as a reference for publishing and documenting projects on GitHub.
 
-## Main Functions
+ **Main Functions**:
 
 ### 1. `getUserChoice(userInput)`
 This function takes the user’s choice (`"rock"`, `"paper"`, or `"scissors"`) and validates it. If the input is valid, it returns it in lowercase; otherwise, it returns an error message.
