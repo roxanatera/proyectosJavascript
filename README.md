@@ -76,9 +76,9 @@ Feel free to explore, modify, and improve these projects to better suit your nee
 
 If you'd like to contribute to any of these projects, please fork the repository, make your changes, and submit a pull request. Your contributions are welcome!
 
-### Training Days
+### 5.  Training Days.js
 
-## Description
+**Description**:
 
 The "Training Days" project is a JavaScript program designed to simulate the process of assigning training events and calculating the required days of preparation for an athlete. The program randomly selects an event from a set of sports, then determines how many days the athlete has to train for the chosen event. It also logs this information for multiple athletes.
 
@@ -116,7 +116,7 @@ The purpose of this project is to demonstrate the use of functions, conditionals
 
 ### Rock, Paper, or Scissors Game
 
-## Description
+**Description**:
 
 This project is a JavaScript implementation of the classic "Rock, Paper, Scissors" game. It allows a user to play against the computer, which randomly chooses its moves. The main objective of the game is to determine the winner based on the following rules:
 
@@ -124,7 +124,7 @@ This project is a JavaScript implementation of the classic "Rock, Paper, Scissor
 - Scissors beats Paper
 - Paper beats Rock
 
-## Purpose
+**Purpose**
 
 This project serves both educational and practical purposes:
 1. **Practice JavaScript**: The code helps beginner developers practice using functions, conditionals, and user-system interaction.
