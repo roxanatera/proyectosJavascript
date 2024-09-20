@@ -58,3 +58,35 @@ Feel free to explore, modify, and improve these projects to better suit your nee
 
 Contribution
 If you'd like to contribute to any of these projects, please fork the repository, make your changes, and submit a pull request. Your contributions are welcome!
+
+# Rock, Paper, or Scissors Game
+
+## Descripción
+
+Este proyecto es una implementación en JavaScript del clásico juego de "Piedra, Papel o Tijeras". Permite que un usuario juegue contra la computadora, que elige sus movimientos de manera aleatoria. El objetivo principal del juego es determinar el ganador entre el usuario y la computadora basándose en las reglas clásicas:
+
+- Piedra vence a Tijeras
+- Tijeras vence a Papel
+- Papel vence a Piedra
+
+## Propósito
+
+Este proyecto tiene varios propósitos educativos y prácticos:
+1. **Practicar JavaScript**: El código permite a los desarrolladores principiantes aprender sobre funciones, condicionales y la interacción entre el usuario y el sistema.
+2. **Demostrar la lógica del juego**: Se implementan varias funciones para simular el juego, incluyendo la elección del usuario, la elección aleatoria de la computadora y la determinación del ganador.
+3. **Familiarización con GitHub**: Este repositorio actúa como una referencia para la publicación y documentación de proyectos en GitHub.
+
+## Funciones Principales
+
+### 1. `getUserChoice(userInput)`
+Esta función toma la elección del usuario (`"rock"`, `"paper"` o `"scissors"`) y la valida. Si el input es válido, se retorna en minúsculas; de lo contrario, devuelve un mensaje de error.
+
+```javascript
+const getUserChoice = (userInput) => { 
+  userInput = userInput.toLowerCase();
+  if (userInput === "rock" || userInput === "paper" || userInput === "scissors") {
+    return userInput;
+  } else {
+    return "Error!";
+  }
+};
