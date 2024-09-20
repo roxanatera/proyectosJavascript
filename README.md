@@ -109,4 +109,40 @@ const getUserChoice = (userInput) => {
   }
 };
 
+# Training Days
+
+## Description
+
+The "Training Days" project is a JavaScript program designed to simulate the process of assigning training events and calculating the required days of preparation for an athlete. The program randomly selects an event from a set of sports, then determines how many days the athlete has to train for the chosen event. It also logs this information for multiple athletes.
+
+## Project Overview
+
+In this project:
+- An event is randomly selected from three possible options: `Marathon`, `Triathlon`, or `Pentathlon`.
+- The number of training days is calculated based on the event:
+  - Marathon: 50 days
+  - Triathlon: 100 days
+  - Pentathlon: 200 days
+- The athlete's name, assigned event, and training time are then logged to the console.
+
+## Purpose
+
+The purpose of this project is to demonstrate the use of functions, conditionals, and variable scopes in JavaScript. It also practices working with randomization and string interpolation to display relevant information.
+
+### Main Functions
+
+1. **`getRandEvent()`**  
+   This function randomly selects and returns one of the three sports events: `"Marathon"`, `"Triathlon"`, or `"Pentathlon"`.
+
+   ```javascript
+   const getRandEvent = () => {
+     const random = Math.floor(Math.random() * 3);
+     if (random === 0) {
+       return "Marathon";
+     } else if (random === 1) {
+       return "Triathlon";
+     } else if (random === 2) {
+       return "Pentathlon";
+     }
+   };
 
