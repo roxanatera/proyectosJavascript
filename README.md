@@ -76,7 +76,7 @@ Feel free to explore, modify, and improve these projects to better suit your nee
 
 If you'd like to contribute to any of these projects, please fork the repository, make your changes, and submit a pull request. Your contributions are welcome!
 
-# Training Days
+### Training Days
 
 ## Description
 
@@ -114,7 +114,7 @@ The purpose of this project is to demonstrate the use of functions, conditionals
    };
 
 
-# Rock, Paper, or Scissors Game
+### Rock, Paper, or Scissors Game
 
 ## Description
 
