@@ -64,8 +64,6 @@ Team Stats.js is a utility that allows users to input and analyze statistics for
 - Assists in managing and interpreting sports data.
 - Provides insights into team performance and trends.
 
----
-
 ## Getting Started
 
 To use any of these projects, clone the repository and open the respective JavaScript files in a compatible environment. Ensure that you have a basic understanding of JavaScript to make the most out of these tools.
@@ -75,6 +73,8 @@ Feel free to explore, modify, and improve these projects to better suit your nee
 ## Contribution
 
 If you'd like to contribute to any of these projects, please fork the repository, make your changes, and submit a pull request. Your contributions are welcome!
+
+---
 
 ### 5.  Training Days.js
 
@@ -112,7 +112,7 @@ The purpose of this project is to demonstrate the use of functions, conditionals
        return "Pentathlon";
      }
    };
-
+---
 
 ### 6. Rock, Paper, or Scissors Game.js
 
